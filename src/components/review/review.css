@@ -1,0 +1,25 @@
+.review{
+    /* flex-direction: column;
+    justify-content: space-around; */
+    padding: 2rem 25px;
+    /* padding-top:2vh; */
+    border-radius: 1.25rem;
+    
+}
+
+.review>img{
+    width: 2.5rem;
+    height:1.5rem;
+}
+.review .people{
+    gap:15px;
+}
+.review>p{
+    margin:5vh 0;
+    width:90%;
+}
+
+.review:hover{
+    background: linear-gradient(144.39deg,#FFFFFF -278.56%,#6D6D6D -78.47%,#11101D 91.61%);
+    transition: .4s;
+}

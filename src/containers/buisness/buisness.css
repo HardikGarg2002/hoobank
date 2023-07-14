@@ -1,0 +1,9 @@
+.buisness__buisnessCards{
+    flex-direction: column;
+    flex-basis: 100%;
+    gap:5vh;
+}
+.buisness{
+    height:90vh;
+    gap: 20px;
+}

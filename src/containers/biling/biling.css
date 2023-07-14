@@ -1,0 +1,14 @@
+.biling>img{
+    width:40vw;
+    flex-basis: 40%;
+}
+.biling>div{
+    flex-basis: 40%;
+    
+}
+.biling>div h1{
+    font-size: 3rem;
+}
+.biling{
+    justify-content: space-between;
+}

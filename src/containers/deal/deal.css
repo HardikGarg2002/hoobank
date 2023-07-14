@@ -1,0 +1,12 @@
+.deal>img{
+    /* flex-basis:40%; */
+    width:50%;
+}
+.deal{
+    /* gap:5vw; */
+    justify-content: space-between;
+}
+.deal>div{
+    width:50%;
+    flex-basis: 45%;
+}

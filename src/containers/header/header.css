@@ -1,0 +1,47 @@
+.header.section{
+   margin-right:0;
+   width:95vw;
+   max-width:1200px;
+}
+.header .landing__img{
+    
+    max-height:90vh;
+    flex-basis: 50%;
+    
+}
+
+.header__content{
+    color:white;
+}
+
+.header__content h1{
+    font-size: 4.25rem;
+}
+.header__content-circle{
+    border-radius:50%;
+    float:right;
+    /* border: 2px solid linear-gradient(180deg, #DEF9FA 0.89%, #BEF3F5 17.23%, #9DEDF0 42.04%, #7DE7EB 55.12%, #5CE1E6 71.54%, #33BBCF 100%); */
+    border:2px solid #7DE7EB ;
+    height:8rem;
+    width:8rem;
+    position: relative;
+    top:3px;
+    right:10px;
+}
+.header__content-circle p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    /* text-align: center; */
+    font-size: 1.125rem;
+}
+.header__content-circle img{
+    width:1rem;
+    height: 1rem;
+}
+
+.header__content>div>p{
+    margin-top:1.2rem;
+    width:60%;
+}

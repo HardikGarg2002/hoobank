@@ -1,0 +1,10 @@
+.actionCall .contentCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.actionCall{
+    border-radius: 1.25rem;
+    background: linear-gradient(125.17deg,#272727 0%,#11101D 100%);
+    padding:15px;
+}

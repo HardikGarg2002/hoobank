@@ -1,0 +1,33 @@
+.thoughts{
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.multi_reviews{
+    gap:3vw;
+}
+.multi_reviews>div{
+    max-width:30%;
+    /* height:80%; */
+}
+
+.thoughts_about {
+    gap:5vw;
+    align-items: center;
+}
+.thoughts_about h1{
+    flex-basis: 40%;
+    font-size: 3rem;
+}
+.thoughts_about p{
+    flex-basis: 40%;
+}
+
+.thoughts .companies{
+    justify-content: space-around;
+    align-items: center;
+}
+
+.thoughts .companies>img{
+    max-width:17%;
+}

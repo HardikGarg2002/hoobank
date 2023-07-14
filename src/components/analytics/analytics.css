@@ -1,0 +1,11 @@
+.analytics h2{
+    text-transform: uppercase;
+    /* display: inline-block; */
+}
+.analytics h1{
+    /* display: inline-block; */
+}
+.analytics{
+    display: flex;
+    align-items: center;
+}
